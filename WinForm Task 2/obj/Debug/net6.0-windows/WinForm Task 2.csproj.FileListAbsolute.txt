@@ -1,0 +1,16 @@
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm_Task_2.Form1.resources
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm Task 2.csproj.GenerateResource.cache
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm Task 2.AssemblyInfoInputs.cache
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm Task 2.AssemblyInfo.cs
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\bin\Debug\net6.0-windows\WinForm Task 2.exe
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\bin\Debug\net6.0-windows\WinForm Task 2.deps.json
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\bin\Debug\net6.0-windows\WinForm Task 2.runtimeconfig.json
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\bin\Debug\net6.0-windows\WinForm Task 2.dll
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\bin\Debug\net6.0-windows\WinForm Task 2.pdb
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm Task 2.dll
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\refint\WinForm Task 2.dll
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm Task 2.pdb
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\WinForm Task 2.genruntimeconfig.cache
+C:\Users\Muhammad\source\repos\WinForm Task 2\WinForm Task 2\obj\Debug\net6.0-windows\ref\WinForm Task 2.dll
